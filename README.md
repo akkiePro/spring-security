@@ -1,5 +1,5 @@
 # <h1>spring-security</h1>
-# <h3>SecureApp</h3> <br>
+# <h2>SecureApp</h2> <br>
 Spring Security without any password encoder and default login page from spring security. <br>
 <br>
 # <h3>SecureAppWithBCrypt</h3> <br>
